@@ -1,6 +1,6 @@
 ## Signup page
 
-password -> masks password and puts to data.jjon
+password -> masks password and puts to data.json
 
 ## Login page
 
